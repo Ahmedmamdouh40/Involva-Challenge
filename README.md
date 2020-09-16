@@ -1,5 +1,10 @@
 # Involva-Challenge
 
+Make sure that you have Flask and Pymoongo installed
+To install flask write in your terminal "python3 -m pip install Flask"
+To install pymongo write in your terminal "python3 -m pip install pymongo"
+
+
 #### to filter using product type write "http://127.0.0.1:5000/pods" or "http://127.0.0.1:5000/machines"
 #### here is the link for machines "http://127.0.0.1:5000/machines/param"
 #### here is the link for pods "http://127.0.0.1:5000/pods/param"
